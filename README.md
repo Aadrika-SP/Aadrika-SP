@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadrika%20S%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=EEE%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IAAC%20Gold%20Honour%20Awardee&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadrika%20S%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=EEE%20Engineer%20%7C%20Embedded%20Systems%20%7C%&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Final-Year+EEE+%7C+KCT+Coimbatore;Embedded+Systems+%2B+Hardware-Software+Integration;President%2C+Kumaraguru+SEDS+%7C+2025-26;IAAC+Gold+Honour+Awardee+%7C+GATE+2025+Qualifier" alt="Typing SVG" />
